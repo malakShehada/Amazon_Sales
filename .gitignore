@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~ 
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data files (keep only small samples if needed)
+data/raw/
+data/processed/
+
+# Local config (keep only example/template in repo)
+config/db_config.json
+config/api_config.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
