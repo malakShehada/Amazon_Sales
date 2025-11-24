@@ -18,9 +18,9 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Data files (keep only small samples if needed)
-data/raw/
-data/processed/
+# # Data files (keep only small samples if needed)
+# data/raw/
+# data/processed/
 
 # Local config (keep only example/template in repo)
 config/db_config.json
