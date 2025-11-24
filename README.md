@@ -35,7 +35,8 @@ The goal is to simulate how a real data engineering pipeline ingests, cleans, tr
 ├── reports/
 │   ├── Amazon Sales Dashboard.pbix
 │   └── states_report.md 
-│ ```
+│
+```
 
 
 ## 🛠 3. Tools & Technologies
@@ -65,7 +66,7 @@ The goal is to simulate how a real data engineering pipeline ingests, cleans, tr
 ## 🧱 5. Data Warehouse Schema
 📌 Fact Table
 fact_product_snapshot
-Stores product snapshot metrics (prices, ratings…) with date.
+- Stores product snapshot metrics (prices, ratings…) with date.
 
 📌 Dimension Tables
 - dim_product
